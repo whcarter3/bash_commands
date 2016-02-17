@@ -1,3 +1,4 @@
+web
 export PATH="$HOME/.rbenv/shims:$PATH"
 eval "$(rbenv init -)"
 
@@ -57,6 +58,7 @@ alias h='history'
 alias c='clear'
 alias bash='cd && vim .bash_profile'
 alias obash='cd && atom .bash_profile'
+alias sage='git clone git@github.com:roots/sage.git'
 
 
 # Directories
@@ -68,3 +70,5 @@ alias ttb='cd ~/webDev/lookingLA/TTB'
 alias looking='cd ~/webDev/lookingLA'
 alias 7sa='cd ~/webDev/lookingLA/7SA'
 alias web='cd ~/webDev'
+alias tdae='cd ~/webDev/lookingLA/TDAE'
+alias sp='cd ~/webDev/lookingLA/SP'
