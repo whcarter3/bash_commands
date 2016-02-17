@@ -1,16 +1,3 @@
-web
-export PATH="$HOME/.rbenv/shims:$PATH"
-eval "$(rbenv init -)"
-
-##
-# Your previous /Users/DreSosh/.bash_profile file was backed up as /Users/DreSosh/.bash_profile.macports-saved_2015-10-17_at_00:11:45
-##
-
-# MacPorts Installer addition on 2015-10-17_at_00:11:45: adding an appropriate PATH variable for use with MacPorts.
-export PATH="/opt/local/bin:/opt/local/sbin:$PATH"
-# Finished adapting your PATH environment variable for use with MacPorts.
-
-
 #git aliases
 alias gi='git init'
 alias ga='git add --all'
